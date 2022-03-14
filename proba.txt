@@ -19,3 +19,4 @@ update sa newBranch2 koji je kreiran sa mastera
 ne znam zasto mi remote nije pravnan sa local
 update novi branch koji je kreiran sa ne master brancha
 novi update, proba za pull request
+update sa drugog brancha koji je proba za pull request
